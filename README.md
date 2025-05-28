@@ -1,0 +1,4 @@
+- Utilização de HTML, CSS e JavaScript para a construção do repositório
+- Cores com sinergia para melhor experiência do usuário
+- Sobre: Fala sobre o dono desse repositório
+- Contato: Formulário para contactar ao dono do repositório
